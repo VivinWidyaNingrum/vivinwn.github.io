@@ -1,0 +1,25 @@
+.head{
+	margin: 0;
+	background-color: #eee8aa;
+	text-align: center;
+	font-size: 25px;
+	height: 70px;
+	width: 1343px;
+	font-family: serif;
+	border: solid grey;
+}
+.content{
+	margin:50px;
+	text-align: center;
+
+}
+.footer{
+	clear:both;
+    margin-top:10px;
+    max-width:1800px;
+    height:50px;
+    background-color: #eee8aa;
+    text-align: center;
+    display: block;
+    border: solid grey;
+}

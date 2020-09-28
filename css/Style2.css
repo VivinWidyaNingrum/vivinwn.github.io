@@ -1,0 +1,47 @@
+.head{
+	margin: 0;
+	text-align: center;
+	font-family: Lucida console;
+	font-size: 25px;
+}
+div{
+	clear: both;
+	overflow: auto;
+	width: 100%;
+}
+figure{
+	float: left;
+	width: 700px;
+	height: 350px;
+	padding: 5px;
+	margin: 20px;
+	border: 1px solid #eeeeee;
+}
+.menu ul{
+	padding: 0;
+	margin:20px;
+	background-color: #eee8aa;
+	overflow: hidden;
+}
+.menu ul li{
+	float: left;
+	list-style-type: none;
+	padding: 10px;
+}
+.content{
+	text-align: center;
+	font-size: 30px;
+	margin-left:20px;
+	padding: 20px;
+	height: 350px;
+	width: 1270px;
+	background-color: #8ebc8f;
+}
+footer{
+	clear:both;
+    height:35px;
+    margin: 20px;
+    background-color: #eee8aa;
+    text-align: center;
+    display: block;      	
+}
